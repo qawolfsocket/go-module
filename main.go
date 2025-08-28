@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/qawolfsocket/go-module/greet"
+	"github.com/qawolfsocket/qawolf-socket-go-module/greet"
 )
 
 func main() {
