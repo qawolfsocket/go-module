@@ -1,6 +1,6 @@
 package greet
 
-// Hello returns a greeting string including the module version.
+// Hello returns a greeting string.
 func Hello() string {
-	return "hello from github.com/qawolfsocket/go-module@v0.0.1"
+	return "hello from github.com/qawolfsocket/go-module"
 }
